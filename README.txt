@@ -1,0 +1,2 @@
+Memento CamLock website
+Open index.html in a browser to preview. Upload website files to a separate GitHub repository and enable Pages. Before publishing: add real team names and LinkedIn URLs in about.html/contact.html; configure a domain mailbox and working form endpoint; buy and configure a custom domain; optionally replace or supplement the labelled browser simulation with an actual Android demo video. Verify feature claims against final implementation. No secrets or backend endpoints are included. Contact form is intentionally disabled until configured.
